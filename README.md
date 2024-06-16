@@ -7,13 +7,13 @@
 <h6>Alarm Trigger: Continuously checks the system time against the set alarm time and triggers an alert when they match.</h6>
 <h6>Audible Notification: Plays a beep sound ("winsound.Beep") to notify the user when the alarm goes off.</h6>
 <h4>Usage:</h4>
-<h5>Run the script and enter the desired alarm time in the provided format.</h5>
-<h5>Click "Set Alarm" to activate the alarm.</h5>
-<h5>The program will monitor the current time and alert the user when it matches the set alarm time.</h5>
-<h6>Purpose:</h6>
+<h6>Run the script and enter the desired alarm time in the provided format.</h6>
+<h6>Click "Set Alarm" to activate the alarm.</h6>
+<h6>The program will monitor the current time and alert the user when it matches the set alarm time.</h6>
+<h4>Purpose:</h4>
 <h4>This project serves as a basic demonstration of how to create a functional alarm clock application using Python and "tkinter", suitable for learning GUI programming and basic time handling in Python.</h4>
 
-<h5>Note:</h5>
-<h4>Ensure you have the necessary modules ("tkinter", "time", and "winsound") installed in your Python environment to run the application successfully.</h4>
+<h4>Note:</h4>
+<h6>Ensure you have the necessary modules ("tkinter", "time", and "winsound") installed in your Python environment to run the application successfully.</h6>
 
 
