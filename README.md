@@ -10,7 +10,7 @@
 <h5>Run the script and enter the desired alarm time in the provided format.</h5>
 <h5>Click "Set Alarm" to activate the alarm.</h5>
 <h5>The program will monitor the current time and alert the user when it matches the set alarm time.</h5>
-<h6></h6>Purpose:</h6>
+<h6>Purpose:</h6>
 <h4>This project serves as a basic demonstration of how to create a functional alarm clock application using Python and "tkinter", suitable for learning GUI programming and basic time handling in Python.</h4>
 
 <h5>Note:</h5>
